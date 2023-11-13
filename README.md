@@ -1,6 +1,7 @@
 # DS-json-parsing
 
 I am D.Harshita, junior at VIT-AP University
+
 I designed this repository to streamline the machine learning process based on a JSON configuration, . The code is flexible, allowing parsing of any JSON file following a specific format. This workflow covers feature handling, feature generation, model building using Grid Search, and hyperparameter tuning.
 
 JSON Configuration
